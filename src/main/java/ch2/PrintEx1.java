@@ -15,5 +15,6 @@ public class PrintEx1 {
         int binNum = 0b10;
 
         System.out.printf("b=%d%n", b);
+        System.out.printf("s=%d%n", s);
     }
 }
