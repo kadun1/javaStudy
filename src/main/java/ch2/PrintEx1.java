@@ -16,5 +16,6 @@ public class PrintEx1 {
 
         System.out.printf("b=%d%n", b);
         System.out.printf("s=%d%n", s);
+
     }
 }
