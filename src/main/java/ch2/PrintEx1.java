@@ -19,6 +19,7 @@ public class PrintEx1 {
         System.out.printf("c=%c, %d %n", c, (int)c);
         System.out.printf("finger=[%5d]%n", finger);
         System.out.printf("finger=[%-5d]%n", finger);
-
+        System.out.printf("finger=[%05d]%n", finger);
+        System.out.printf("big=%d%n", big);
     }
 }
