@@ -8,6 +8,7 @@ public class PrintEx1 {
         char c = 'A';
 
         int finger = 10;
+
         long big = 100_000_000_000L;
         long hex = 0xFFFF_FFFF_FFFF_FFFFL;
 
