@@ -19,11 +19,14 @@ public class PrintEx1 {
         System.out.printf("b=%d%n", b);
         System.out.printf("s=%d%n", s);
         System.out.printf("c=%c, %d %n", c, (int)c);
+
         System.out.printf("finger=[%5d]%n", finger);
         System.out.printf("finger=[%-5d]%n", finger);
         System.out.printf("finger=[%05d]%n", finger);
+
         System.out.printf("big=%d%n", big);
         System.out.printf("hex=%#x%n", hex); // '#'은 접두사(16진수 0x, 8진수 0)
+
         System.out.printf("octNum=%o, %d%n", octNum, octNum);
         System.out.printf("hexNum=%x, %d%n", hexNum, hexNum);
         System.out.printf("binNum=%s, %d%n", Integer.toBinaryString(binNum), binNum);
